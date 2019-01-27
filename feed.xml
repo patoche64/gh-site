@@ -3,12 +3,34 @@
     <title>Publii test</title>
     <link href="https://patoche64.github.io/gh-site/feed.xml" rel="self" />
     <link href="https://patoche64.github.io/gh-site" />
-    <updated>2019-01-27T18:02:24+01:00</updated>
+    <updated>2019-01-27T18:32:12+01:00</updated>
     <author>
         <name>PM</name>
     </author>
     <id>https://patoche64.github.io/gh-site</id>
 
+    <entry>
+        <title>Test google forms quiz</title>
+        <author>
+            <name>PM</name>
+        </author>
+        <link href="https://patoche64.github.io/gh-site/test-google-forms-quiz.html"/>
+        <id>https://patoche64.github.io/gh-site/test-google-forms-quiz.html</id>
+
+        <updated>2019-01-27T18:31:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://patoche64.github.io/gh-site/media/posts/4/" alt="" />
+                    Loading...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://patoche64.github.io/gh-site/media/posts/4/" alt="" />
+                <iframe width="640" height="963" src="https://docs.google.com/forms/d/e/1FAIpQLSdb328ojz6ZIyfVbCtzZm1GsK4iorvhL219QexCN6R3Q8pXdQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Play audio</title>
         <author>
