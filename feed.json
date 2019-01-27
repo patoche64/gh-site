@@ -11,6 +11,35 @@
     },
     "items": [
         {
+            "id": "https://patoche64.github.io/gh-site/play-audio.html",
+            "url": "https://patoche64.github.io/gh-site/play-audio.html",
+            "title": "Play audio",
+            "summary": " Your browser does not support the audio element.",
+            "content_html": "<audio controls=\"controls\">\n  <source src=\"https://docs.google.com/uc?export=download&amp;id=1jMmK4QrytoH-xPjHRNfdfhVm_1Rai1FB\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.</audio>",
+            "image": "https://patoche64.github.io/gh-site/media/posts/3/",
+            "author": {
+                "name": "PM"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-27T18:02:17+01:00",
+            "date_modified": "2019-01-27T18:02:17+01:00"
+        },
+        {
+            "id": "https://patoche64.github.io/gh-site/play-video.html",
+            "url": "https://patoche64.github.io/gh-site/play-video.html",
+            "title": "Play Video",
+            "content_html": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/8cZe2ihEZO8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe>",
+            "image": "https://patoche64.github.io/gh-site/media/posts/2/",
+            "author": {
+                "name": "PM"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-27T17:57:49+01:00",
+            "date_modified": "2019-01-27T17:57:49+01:00"
+        },
+        {
             "id": "https://patoche64.github.io/gh-site/my-first-post.html",
             "url": "https://patoche64.github.io/gh-site/my-first-post.html",
             "title": "My First Post",
