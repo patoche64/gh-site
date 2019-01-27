@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Publii test",
+    "description": "",
+    "home_page_url": "https://patoche64.github.io/gh-site",
+    "feed_url": "https://patoche64.github.io/gh-site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "PM"
+    },
+    "items": [
+        {
+            "id": "https://patoche64.github.io/gh-site/my-first-post.html",
+            "url": "https://patoche64.github.io/gh-site/my-first-post.html",
+            "title": "My First Post",
+            "summary": "Test Post",
+            "content_html": "Test Post",
+            "image": "https://patoche64.github.io/gh-site/media/posts/1/",
+            "author": {
+                "name": "PM"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-26T18:31:00+01:00",
+            "date_modified": "2019-01-26T18:31:00+01:00"
+        }
+    ]
+}
